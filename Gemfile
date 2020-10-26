@@ -18,4 +18,4 @@ group :jekyll_plugins do
   gem 'octopress-include-tag'
 end
 
-gem 'sinatra', '~> 1.4.2'
+gem 'sinatra', '~> 2.1.0'
